@@ -1,4 +1,4 @@
-# bill_paying_reminder_app
+# Bill_paying_reminder_app
 
 A new Flutter project.
 
